@@ -1,0 +1,4 @@
+CocaCola,5000,7
+Aqua,3000,12
+Chips,7000,8
+Coklat,6000,5
