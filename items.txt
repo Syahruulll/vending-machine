@@ -1,4 +1,10 @@
-CocaCola,5000,7
-Aqua,3000,12
-Chips,7000,8
-Coklat,6000,5
+A1,Coca-Cola,7000,12
+A2,Fanta,7000,4
+A3,Sprite,7000,6
+B1,Chitato,10000,5
+B2,Chiki Balls,5000,3
+B3,Lays,12000,4
+C1,Aqua,3000,8
+C2,Le Minerale,4000,10
+C3,Pocari Sweat,9000,6
+D1,Wafer,5000,7
